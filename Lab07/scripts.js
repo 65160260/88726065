@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
         todos[index].completed = !todos[index].completed;
         renderTodoList();
     }
-    
+
     // แสดงรายการ Todo บนหน้าเว็บ
     function renderTodoList() {
         console.log(todos);
@@ -64,6 +64,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
     
-    // แสดงรายการ Todo คร้ังแรก
+    // แสดงรายการ Todo ครั้งแรก
     renderTodoList();
     });
