@@ -35,7 +35,7 @@ li {
 }
     
 li.completed {
-    background-color: #d4edda;
+    background-color: #7596e4;
     text-decoration: line-through;
 }
 
@@ -50,7 +50,7 @@ input[type="text"] {
 
 button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #9f6ebe;
     color: white;
     border: none;
     border-radius: 8px;
